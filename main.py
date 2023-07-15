@@ -303,5 +303,5 @@ if __name__ == '__main__':
     speed(9)
     Doraemon()
     ujjwal(100, -300)
-    write('For myyy Bhumiii', font=("Bradley Hand ITC", 30, "bold"))
+    write('For you', font=("Bradley Hand ITC", 30, "bold"))
     mainloop()
