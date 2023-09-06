@@ -7,7 +7,7 @@ def ujjwal(x, y):
     goto(x, y)
     pendown()
 
-
+#you can change the names
 def aankha():
     fillcolor("#ffffff")
     begin_fill()
